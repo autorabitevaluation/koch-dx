@@ -10,6 +10,8 @@
         <members>BotRecord</members>
         <members>BotResponse</members>
         <members>BotTest</members>
+        <members>ChangePasswordController</members>
+        <members>ChangePasswordControllerTest</members>
         <members>DreamHouseSampleDataController</members>
         <members>EinsteinVisionController</members>
         <members>EinsteinVisionControllerTest</members>
