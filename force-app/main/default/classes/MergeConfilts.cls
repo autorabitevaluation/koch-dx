@@ -6,6 +6,13 @@ public class MergeConfilts {
    // Method definition and body
    // do some calculation
       myValue = myValue+10;
+       //MergeConflict
+      return myValue;
+   }
+     public static Integer CalculatedValue () {
+   // Method definition and body
+   // do some calculation
+      myValue = myValue+10;
       return myValue;
    }
 }
