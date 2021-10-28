@@ -10,4 +10,9 @@ public class MergeConfilts {
       myValue = myValue+10;
       return myValue;
    }
+
+   public static void writeLog(){
+     String testString = 'This is a string';
+     system.debug(testString);
+   }
 }
