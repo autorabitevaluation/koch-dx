@@ -5,6 +5,7 @@ public with sharing class BotController {
         public String handlerClassName;
         public Pattern utterancePattern;
         public Boolean isJasonTest;
+        public Boolean isJasonTest2;
 
         public HandlerMapping(String handlerClassName, String patternStr) {
             this.handlerClassName = handlerClassName;
