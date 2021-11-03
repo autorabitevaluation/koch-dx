@@ -15,5 +15,9 @@ public class MergeConfilts {
    public static void writeLog(){
      String testString = 'This is a string';
      system.debug(testString);
+
+
+     String test2 = 'Stacy has another line here';
+     system.debug(test2);
    }
 }
