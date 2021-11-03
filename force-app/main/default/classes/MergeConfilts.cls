@@ -6,6 +6,7 @@ public class MergeConfilts {
     String test = 'Stacy has a line here';
     system.debug(test);
     // Method definition and body
+
    // do some calculation
       myValue = myValue+10;
       return myValue;

@@ -37,6 +37,7 @@
         <members>JWTBearerFlow</members>
         <members>LIFXController</members>
         <members>LIFXControllerTest</members>
+        <members>MergeConfilts</members>
         <members>PostPriceChangeToSlack</members>
         <members>PostPriceChangeToSlackTest</members>
         <members>PropertyController</members>
